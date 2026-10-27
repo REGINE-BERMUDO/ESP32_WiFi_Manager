@@ -1,4 +1,8 @@
 # ESP32_WiFi_Manager
+# Author
+Name: Ma. Regine A. Bermudo
+
+Assigned Number: 28 (BCA188-ESP32-28)
 
 # Description
 This project lets an ESP32 connect to any Wi-Fi network without writing the network name or password in the code. The ESP32 creates its own setup hotspot, and the Wi-Fi details are entered once from a phone through a web portal. They are then saved in the ESP32's flash memory, so the board reconnects by itself after every restart. The project uses the **WiFiManager** library by tzapu.
